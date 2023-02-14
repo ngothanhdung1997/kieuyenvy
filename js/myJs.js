@@ -11,7 +11,7 @@ const textConfig = {
   text10: "Anh biết mà ^^ Mãi mãi yêu emm",
   text11:
     "Khoảng cách có thể ngăn cản anh nhìn thấy em, chạm vào em nhưng không thể ngăn được tình yêu anh dành cho em mỗi ngày. Yêu xa là một thử thách lớn nhưng sẽ là một kết thúc tươi đẹp nếu chúng ta vượt qua được. Hãy cùng nhau cố gắng nha ^^. Sẽ mãi yêu em <3",
-  text12: "Okii lunn <3",
+  text12: "Yêu anh",
 };
 
 $(document).ready(function () {
@@ -137,9 +137,9 @@ $(document).ready(function () {
           title: textConfig.text10,
           text: textConfig.text11,
           confirmButtonColor: "#83d0c9",
-          // onClose: () => {
-          //   window.location = "http://fb.com";
-          // },
+          onClose: () => {
+            window.location = "file:///E:/2023/kieuyenvy/valentine.html";
+          },
         });
       }
     });
