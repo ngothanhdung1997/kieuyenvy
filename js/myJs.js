@@ -8,9 +8,9 @@ const textConfig = {
   text7: "lí do em thích anh đi :vvvv",
   text8: "Gửi cho anh <3",
   text9: "Vì anh siêu đẹp trai",
-  text10: "Anh biết mà ^^ Mãi mãi yêu emm",
+  text10: "Anh biết mà ^^",
   text11:
-    "Khoảng cách có thể ngăn cản anh nhìn thấy em, chạm vào em nhưng không thể ngăn được tình yêu anh dành cho em mỗi ngày. Yêu xa là một thử thách lớn nhưng sẽ là một kết thúc tươi đẹp nếu chúng ta vượt qua được. Hãy cùng nhau cố gắng nha ^^. Sẽ mãi yêu em <3",
+    "Khoảng cách có thể ngăn cản anh nhìn thấy em, chạm vào em nhưng không thể ngăn được tình yêu anh dành cho em mỗi ngày. Anh hy vọng hai đứa mình sẽ luôn vui vẻ, ngày càng yêu thương nhau hơn, đợi anh về anh sẽ bù đắp cho em tất cả. Sẽ mãi mãi yêu em <3",
   text12: "Yêu anh",
 };
 
